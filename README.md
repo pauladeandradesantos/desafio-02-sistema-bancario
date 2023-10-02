@@ -1,45 +1,25 @@
-![](https://i.imgur.com/xG74tOh.png)
+# :bank: Sistema Bancário
 
-# Desafio Módulo 2 - Back-end
+Projeto de Backend cujo objetivo é criar uma RESTful API para um Banco Digital. Trata-se de um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas.
 
-## Como entregar?
+As funcionalidades iniciais dessa API são:
 
-- [ ] Faça o fork desse repositório para o seu GitHub
-- [ ] Clone o seu repositório em sua máquina
-- [ ] Desenvolva seu projeto, fazendo commits a cada alteração e push
-- [ ] Crie um PR (pull request)
-- [ ] Envie o link do pull request que você criou na plataforma da Cubos
-
-### ⚠️ Importante: Se o pull request não for criado e enviado na plataforma o feedback não será fornecido e constará como não entregue
-
-## Descrição do desafio
-
-Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
-Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
-
-Seu papel é construir uma RESTful API que permita:
-
--   Criar conta bancária
--   Listar contas bancárias
--   Atualizar os dados do usuário da conta bancária
--   Excluir uma conta bancária
--   Depósitar em uma conta bancária
--   Sacar de uma conta bancária
--   Transferir valores entre contas bancárias
--   Consultar saldo da conta bancária
--   Emitir extrato bancário
+-   Criar conta bancária;
+-   Listar contas bancárias;
+-   Atualizar os dados do usuário da conta bancária;
+-   Excluir uma conta bancária;
+-   Depósitar em uma conta bancária;
+-   Sacar de uma conta bancária;
+-   Transferir valores entre contas bancárias;
+-   Consultar saldo da conta bancária;
+-   Emitir extrato bancário.
 
 **Importante: Sempre que a validação de uma requisição falhar, responda com código de erro e mensagem adequada à situação, ok?**
 
 **Exemplo:**
 
-```javascript
-// Quando é informado um número de conta que não existe:
-// HTTP Status 404
-{
-    "mensagem": "Conta bancária não encontada!"
-}
-```
+![]([https://i.imgur.com/xG74tOh.png](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
+
 
 ## Persistências dos dados
 
