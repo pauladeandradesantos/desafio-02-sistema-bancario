@@ -43,6 +43,7 @@ O código está organizado de acordo com as responsabilidades de cada arquivo. A
 
 Os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`. Todas as transações e contas bancárias deverão ser inseridas dentro deste objeto, seguindo a estrutura que já existe.
 
+
 ## Contribua com o projeto:
 
 - Realize o Fork
@@ -51,13 +52,15 @@ Os dados serão persistidos em memória, no objeto existente dentro do arquivo `
 
 ## Rodando o projeto:
 
-- Clone o projeto: git clone <urlProjeto>
-- Instale as dependências: npm install express
-- Execute o backend: npm run dev
+- Clone o projeto: "git clone <urlProjeto>"
+- Iniciar o npm: "npm init"
+- Instalar as dependências: "npm install express"
+- Executar o código: "node index.js" ou "npm run dev"
 
 
 ## Propriedade do projeto:
-Cubos Academy
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxrmjCKA_tv-nGKLNraoppvj2ugX4MCHqDNQrHyttnjx_0QXl7ZYBnJqxdM1UaGvHM_w&usqp=CAU" width="200px" />
+
 
 ## Autoria do presente código:
 Paula Santos
