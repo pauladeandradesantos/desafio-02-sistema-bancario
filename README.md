@@ -14,11 +14,13 @@ As funcionalidades iniciais dessa API são:
 -   Consultar saldo da conta bancária;
 -   Emitir extrato bancário.
 
-**Importante: Sempre que a validação de uma requisição falhar, responda com código de erro e mensagem adequada à situação, ok?**
 
-**Exemplo:**
+## Linguagens e ferramentas utilizadas:
 
-![]([https://i.imgur.com/xG74tOh.png](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 
 ## Persistências dos dados
