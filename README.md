@@ -21,6 +21,7 @@ As funcionalidades iniciais dessa API são:
 ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 
@@ -41,6 +42,18 @@ O código está organizado de acordo com as responsabilidades de cada arquivo. A
 ## Persistências dos dados:
 
 Os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`. Todas as transações e contas bancárias deverão ser inseridas dentro deste objeto, seguindo a estrutura que já existe.
+
+## Contribua com o projeto:
+
+- Realize o Fork
+- Faça as modificações necessárias
+- Realize a Pull Request (PR)
+
+## Rodando o projeto:
+
+- Clone o projeto: git clone <urlProjeto>
+- Instale as dependências: npm install express
+- Execute o backend: npm run dev
 
 
 ## Propriedade do projeto:
