@@ -33,6 +33,10 @@ O código está organizado de acordo com as responsabilidades de cada arquivo. A
 -   Um pasta de controladores com dois arquivos: controlador de contas e controlador de transações;
 -   A moeda utilizada é o real brasileiro e os valores serão representados em centavos.
 
+## Estrutura no VS Code:
+
+  ![](https://github.com/pauladeandradesantos/desafio-02-sistema-bancario/blob/main/print-api.jpeg?raw=true)
+
 
 ## Persistências dos dados:
 
